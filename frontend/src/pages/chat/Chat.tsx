@@ -603,7 +603,7 @@ const Chat = () => {
                         {!messages || messages.length < 1 ? (
                             <Stack className={styles.chatEmptyState}>
                                 <img
-                                    src={Contoso}
+                                    src={logo_lallemand}
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
