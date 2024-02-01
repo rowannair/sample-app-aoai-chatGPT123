@@ -10,7 +10,7 @@ import { isEmpty } from "lodash-es";
 import DOMPurify from 'dompurify';
 
 import styles from "./Chat.module.css";
-import Contoso from "../../assets/logo_lallemand.png";
+import logo_lallemand from "../../assets/logo_lallemand.svg";
 import { XSSAllowTags } from "../../constants/xssAllowTags";
 
 import {
